@@ -1,4 +1,4 @@
-github "LoopKit/LoopKit" ~> 3.0
+github "rutgerbousche/Loop" ~> 3.0
 github "rutgerbousche/CGMBLEKit" "dev" 
 github "i-schuetz/SwiftCharts" == 0.6.5
 github "rutgerbousche/dexcom-share-client-swift" "master"
